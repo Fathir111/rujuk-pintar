@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekomendasi Rumah Sakit</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0-alpha1/css/bootstrap.min.css">
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f4f9fd;
+            background-image: url('https://example.com/your-hospital-image.jpg'); /* Ganti dengan URL gambar rumah sakit yang diinginkan */
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.8); /* Memberikan transparansi pada kontainer */
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+            margin-top: 60px;
+        }
+
+        h1 {
+            color: #007bff;
+            font-size: 2.5rem;
+            font-weight: 600;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        label {
+            font-weight: 600;
+            color: #007bff;
+        }
+
+        .form-label {
+            color: #007bff;
+        }
+
+        .form-control, .form-select {
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
+            padding: 10px;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            width: 100%;
+            border-radius: 8px;
+            padding: 12px;
+            font-weight: 600;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+        .alert-danger {
+            background-color: #f8d7da;
+            color: #721c24;
+            text-align: center;
+            border-radius: 8px;
+            padding: 10px;
+        }
+
+        .result-box {
+            margin-top: 30px;
+            background-color: #e9f7fe;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            border-left: 4px solid #007bff;
+        }
+
+        .form-control::placeholder,
+        .form-select::placeholder {
+            color: #007bff;
+        }
+
+        .header {
+            padding-top: 20px;
+            text-align: center;
+            color: white;
+            font-size: 2rem;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Animation for the input fields */
+        .form-control, .form-select {
+            transition: all 0.3s ease-in-out;
+        }
+
+        .form-control:focus, .form-select:focus {
+            border-color: #0056b3;
+            box-shadow: 0 0 5px rgba(0, 0, 255, 0.3);
+        }
+
+        /* Button hover effect */
+        .btn-primary:hover {
+            transform: translateY(-2px);
+        }
+
+        /* Floating label effect */
+        .form-floating>.form-control, .form-floating>.form-select {
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Rekomendasi Rumah Sakit Rujukan</h1>
+        <h1>Berdasarkan Diagnosa</h1>
+    </div>
+    
+    <div class="container">
+        <!-- Error Message -->
+        {% if error %}
+            <div class="alert alert-danger">
+                <strong>PERHATIAN!</strong> {{ error }}
+            </div>
+        {% endif %}
+
+        <!-- Form Input -->
+        <form method="POST">
+            <div class="mb-3">
+                <label for="nama" class="form-label">Nama Lengkap</label>
+                <input type="text" id="nama" name="nama" class="form-control" placeholder="Masukkan Nama Anda" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="gender" class="form-label">Jenis Kelamin</label>
+                <select id="gender" name="gender" class="form-select" required>
+                    <option value="Laki-laki">Laki-laki</option>
+                    <option value="Perempuan">Perempuan</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="bpjs" class="form-label">Status BPJS</label>
+                <select id="bpjs" name="bpjs" class="form-select" required>
+                    <option value="Iya">Terdaftar</option>
+                    <option value="Tidak">Tidak Terdaftar</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="umur" class="form-label">Umur</label>
+                <input type="number" id="umur" name="umur" class="form-control" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="domisili" class="form-label">Domisili</label>
+                <select id="domisili" name="domisili" class="form-select" required>
+                    <option value="Jakarta Pusat">Jakarta Pusat</option>
+                    <option value="Jakarta Timur">Jakarta Timur</option>
+                    <option value="Jakarta Selatan">Jakarta Selatan</option>
+                    <option value="Jakarta Barat">Jakarta Barat</option>
+                    <option value="Jakarta Utara">Jakarta Utara</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="diagnosis" class="form-label">Diagnosis Sementara</label>
+                <input type="text" id="diagnosis" name="diagnosis" class="form-control" placeholder="Masukkan Diagnosis" required>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Cari Rumah Sakit</button>
+        </form>
+
+        <!-- Display Result -->
+        {% if recommended_hospital %}
+            <div class="result-box">
+                <h3>Rekomendasi Rumah Sakit:</h3>
+                <p><strong>{{ recommended_hospital }} - {{ specialist_for_hospital }}</strong></p>
+            </div>
+        {% endif %}
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0-alpha1/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

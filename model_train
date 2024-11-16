@@ -1,0 +1,85 @@
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import accuracy_score
+import pickle
+
+# Membaca dataset dari file CSV
+df = pd.read_csv('Dataset_Rumah_Sakit.csv')
+
+# Mapping kata kunci diagnosis ke spesialisasi
+diagnosis_to_specialist = {
+    "Saraf": "Neurologi (Saraf)",
+    "Otot": "Miologi (Otot)",
+    "Sendi": "Arthrologi (Sendi)",
+    "Janin": "Fetologi (Janin)",
+    "Embrio": "Embriologi (Embrio)",
+    "Darah": "Hematologi (Darah)",
+    "Tulang": "Osteologi (Tulang)",
+    "Jantung": "Kardiologi (Jantung)",
+    "Ginjal": "Nefrologi (Ginjal)",
+    "Sel": "Sitologi (Sel)",
+    "Parasit": "Parasitologi (Parasit)",
+    "Imun": "Imunologi (Imun)",
+    "Kanker": "Onkologi (Kanker)",
+    "Reproduksi": "Ginekologi (Reproduksi)"
+}
+
+# Fungsi untuk memetakan diagnosis ke spesialisasi
+def map_diagnosis_to_specialist(diagnosis):
+    for keyword, specialist in diagnosis_to_specialist.items():
+        if keyword.lower() in diagnosis.lower():
+            return specialist
+    return "Tidak Diketahui"
+
+# Menambahkan kolom spesialisasi berdasarkan diagnosis
+df['Bidang Specialist'] = df['Diagnosis Sementara'].apply(map_diagnosis_to_specialist)
+
+# Label encoding untuk data kategorikal
+le_bpjs = LabelEncoder()
+le_domisili = LabelEncoder()
+le_diagnosis = LabelEncoder()
+le_specialist = LabelEncoder()
+le_rumah_sakit = LabelEncoder()
+
+df['BPJS'] = le_bpjs.fit_transform(df['BPJS'])
+df['Domisili'] = le_domisili.fit_transform(df['Domisili'])
+df['Diagnosis Sementara'] = le_diagnosis.fit_transform(df['Diagnosis Sementara'])
+df['Bidang Specialist'] = le_specialist.fit_transform(df['Bidang Specialist'])
+df['Nama Rumah Sakit'] = le_rumah_sakit.fit_transform(df['Nama Rumah Sakit'])
+
+# Memisahkan fitur dan target
+X = df[['BPJS', 'Umur', 'Domisili', 'Diagnosis Sementara', 'Bidang Specialist']]
+y = df['Nama Rumah Sakit']
+
+# Membagi data menjadi train dan test, dengan stratified split untuk menjaga distribusi kelas
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+
+# Mencari parameter yang optimal menggunakan GridSearchCV
+param_grid = {
+    'n_estimators': [100, 200],
+    'max_depth': [10, 20],
+    'min_samples_split': [2, 5],
+    'min_samples_leaf': [1, 2],
+    'class_weight': ['balanced', None]
+}
+
+grid_search = GridSearchCV(RandomForestClassifier(random_state=42), param_grid, cv=3, n_jobs=-1, verbose=1)
+grid_search.fit(X_train, y_train)
+
+# Model terbaik berdasarkan GridSearchCV
+best_model = grid_search.best_estimator_
+
+# Evaluasi model
+y_pred = best_model.predict(X_test)
+print(f'Akurasi Model: {accuracy_score(y_test, y_pred)}')
+
+# Menyimpan model dan label encoder
+with open('hospital_recommendation_model.pkl', 'wb') as file:
+    pickle.dump(best_model, file)
+    pickle.dump(le_bpjs, file)
+    pickle.dump(le_domisili, file)
+    pickle.dump(le_diagnosis, file)
+    pickle.dump(le_specialist, file)
+    pickle.dump(le_rumah_sakit, file)

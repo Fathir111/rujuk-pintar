@@ -1,0 +1,501 @@
+BPJS,Umur,Domisili,Diagnosis Sementara,Bidang Specialist,Nama Rumah Sakit
+Tidak,59,Jakarta Utara,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,90,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,87,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,46,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,86,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,77,Jakarta Utara,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,18,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,21,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,97,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,80,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,51,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,96,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,93,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,22,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,66,Jakarta Selatan,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,2,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,43,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,38,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,16,Jakarta Selatan,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,98,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,36,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,73,Jakarta Utara,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,19,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,0,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,69,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,84,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,10,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,14,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,99,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,83,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,14,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,78,Jakarta Utara,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,38,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,18,Jakarta Timur,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,12,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,67,Jakarta Utara,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,11,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,6,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,89,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,79,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,14,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,18,Jakarta Selatan,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,60,Jakarta Utara,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,40,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,44,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,79,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,28,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,35,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,72,Jakarta Timur,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,73,Jakarta Pusat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,38,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,77,Jakarta Utara,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,69,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,99,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,21,Jakarta Utara,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,54,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,9,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,39,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,8,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,80,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,25,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,83,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,86,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,18,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,87,Jakarta Timur,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,58,Jakarta Timur,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,20,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,74,Jakarta Selatan,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,50,Jakarta Utara,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,89,Jakarta Pusat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,49,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,17,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,24,Jakarta Timur,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,10,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,85,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,68,Jakarta Selatan,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,0,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,33,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,99,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,51,Jakarta Pusat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,35,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,8,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,81,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,77,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,33,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,21,Jakarta Utara,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,6,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,100,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,78,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,8,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,94,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,85,Jakarta Timur,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,85,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,93,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,73,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,22,Jakarta Selatan,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,70,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,55,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,4,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,63,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,72,Jakarta Pusat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,84,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,71,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,93,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,88,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,61,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,35,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,51,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,100,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,55,Jakarta Utara,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,95,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,29,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,87,Jakarta Utara,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,9,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,87,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,31,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,35,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,33,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,82,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,60,Jakarta Pusat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,35,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,19,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,71,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,83,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,73,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,94,Jakarta Pusat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,22,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,81,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,83,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,41,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,15,Jakarta Utara,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,45,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,99,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,60,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,7,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,19,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,77,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,90,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,34,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,0,Jakarta Pusat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,9,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,24,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,1,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,49,Jakarta Utara,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,34,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,2,Jakarta Pusat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,53,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,84,Jakarta Timur,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,94,Jakarta Utara,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,16,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,42,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,99,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,18,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,47,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,64,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,65,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,1,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,77,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,92,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,52,Jakarta Utara,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,58,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,86,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,21,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,96,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,3,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,46,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,70,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,77,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,93,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,82,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,86,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,27,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,46,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,93,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,10,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,42,Jakarta Pusat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,25,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,17,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,1,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,80,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,22,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,25,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,89,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,32,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,39,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,21,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,37,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,33,Jakarta Barat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,23,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,79,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,51,Jakarta Selatan,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,74,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,37,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,97,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,67,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,16,Jakarta Barat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,1,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,30,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,27,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,14,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,0,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,61,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,85,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,5,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,39,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,62,Jakarta Utara,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,70,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,38,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,30,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,54,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,35,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,3,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,98,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,63,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,64,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,62,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,29,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,11,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,22,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,65,Jakarta Utara,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,3,Jakarta Pusat,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,63,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,15,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,56,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,8,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,3,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,42,Jakarta Utara,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,72,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,86,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,83,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,54,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,68,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,31,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,35,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,84,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,28,Jakarta Utara,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,31,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,40,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,77,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,17,Jakarta Selatan,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,82,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,64,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,41,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,5,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,44,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,55,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,50,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,72,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,5,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,67,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,95,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,97,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,52,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,85,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,13,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,84,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,77,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,76,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,90,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,88,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,56,Jakarta Utara,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,0,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,51,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,39,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,94,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,48,Jakarta Selatan,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,13,Jakarta Timur,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,35,Jakarta Utara,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,81,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,22,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,18,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,0,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,100,Jakarta Timur,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,52,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,7,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,97,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,16,Jakarta Timur,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,76,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,98,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,15,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,86,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,79,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,90,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,8,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,8,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,92,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,18,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,100,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,1,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,46,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,87,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,36,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,48,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,27,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,37,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,86,Jakarta Pusat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,24,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,87,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,82,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,5,Jakarta Selatan,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,18,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,87,Jakarta Pusat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,24,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,54,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,89,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,59,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,48,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,17,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,91,Jakarta Utara,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,12,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,20,Jakarta Pusat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,40,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,25,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,88,Jakarta Timur,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,60,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,6,Jakarta Barat,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,22,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,69,Jakarta Timur,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,24,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,57,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,22,Jakarta Timur,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,85,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,93,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,7,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,100,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,76,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,3,Jakarta Timur,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,11,Jakarta Utara,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,31,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,83,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,97,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,61,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,70,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,18,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,68,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,52,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,87,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,70,Jakarta Barat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,45,Jakarta Timur,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,44,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,27,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,63,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,89,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,0,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,41,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,42,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,37,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,26,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,59,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,69,Jakarta Timur,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,80,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,76,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,72,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,0,Jakarta Pusat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,25,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,39,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,97,Jakarta Timur,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,41,Jakarta Utara,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,44,Jakarta Utara,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,94,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,2,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,72,Jakarta Selatan,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,71,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,55,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,60,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,64,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,0,Jakarta Selatan,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,26,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,52,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,38,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,92,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,55,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,50,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,45,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,75,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,80,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,46,Jakarta Selatan,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,12,Jakarta Utara,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,30,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,33,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,76,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,81,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,25,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,84,Jakarta Utara,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Iya,54,Jakarta Timur,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,55,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,55,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,89,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,53,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,52,Jakarta Utara,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,99,Jakarta Selatan,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,54,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,19,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,44,Jakarta Timur,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,15,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,14,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,4,Jakarta Utara,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,69,Jakarta Timur,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,90,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,75,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,100,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,96,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,57,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,39,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,46,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,39,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,58,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,84,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,0,Jakarta Selatan,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,46,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,67,Jakarta Timur,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,6,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,91,Jakarta Selatan,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,51,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,92,Jakarta Selatan,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,5,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,77,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,40,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,10,Jakarta Pusat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,31,Jakarta Barat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,15,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,53,Jakarta Selatan,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,17,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,44,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,42,Jakarta Barat,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,63,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,17,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,53,Jakarta Pusat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,99,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,99,Jakarta Utara,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,40,Jakarta Timur,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,91,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,9,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,71,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,13,Jakarta Selatan,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,25,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,80,Jakarta Timur,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,15,Jakarta Selatan,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,58,Jakarta Timur,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,16,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,87,Jakarta Barat,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,5,Jakarta Utara,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,71,Jakarta Timur,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,50,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,22,Jakarta Pusat,Darah,Hematologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,82,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,83,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,89,Jakarta Utara,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,34,Jakarta Selatan,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,68,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,14,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,61,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,40,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,21,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,36,Jakarta Selatan,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,81,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,14,Jakarta Barat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,74,Jakarta Selatan,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,95,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Iya,95,Jakarta Pusat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,81,Jakarta Pusat,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,56,Jakarta Timur,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,97,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,80,Jakarta Utara,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,69,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,19,Jakarta Selatan,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Tidak,2,Jakarta Barat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,23,Jakarta Timur,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,52,Jakarta Selatan,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,2,Jakarta Utara,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,81,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,75,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,28,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,50,Jakarta Barat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,95,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Iya,7,Jakarta Selatan,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,50,Jakarta Utara,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,64,Jakarta Pusat,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,86,Jakarta Utara,Otot,Miologi,RS Fatmawati - Jakarta Selatan
+Iya,16,Jakarta Utara,Janin,Fetologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,82,Jakarta Barat,Reproduksi,Ginekologi,RS Fatmawati - Jakarta Selatan
+Tidak,6,Jakarta Selatan,Parasit,Parasitologi,RS Dharmais - Jakarta Barat
+Tidak,37,Jakarta Barat,Embrio,Embriologi,RS Bunda Jakarta - Jakarta Pusat
+Tidak,21,Jakarta Timur,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,48,Jakarta Timur,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,7,Jakarta Pusat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Iya,3,Jakarta Selatan,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,7,Jakarta Selatan,Jantung,Kardiologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Tidak,4,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Tidak,9,Jakarta Utara,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,30,Jakarta Barat,Sel,Sitologi,RS Dharmais - Jakarta Barat
+Iya,52,Jakarta Barat,Saraf,Neurologi,RS Bunda Jakarta - Jakarta Pusat
+Iya,36,Jakarta Pusat,Ginjal,Nefrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Iya,34,Jakarta Barat,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat
+Iya,92,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,41,Jakarta Pusat,Imun,Imunologi,RS Dharmais - Jakarta Barat
+Tidak,12,Jakarta Barat,Sendi,Arthrologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,3,Jakarta Pusat,Tulang,Osteologi,RS Siloam Hospitals Semanggi - Jakarta Selatan
+Tidak,69,Jakarta Barat,Kanker,Onkologi,RS Fatmawati - Jakarta Selatan
+Tidak,30,Jakarta Timur,Saraf,Neurologi,RS Cipto Mangunkusumo - Jakarta Pusat

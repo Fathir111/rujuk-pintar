@@ -1,0 +1,98 @@
+import pandas as pd
+import random
+
+# Data referensi
+domisili_list = [
+    "Jakarta Pusat", "Jakarta Timur", "Jakarta Selatan", 
+    "Jakarta Barat", "Jakarta Utara"
+]
+
+# Mapping spesialisasi
+specialist_mapping = {
+    "Neurologi": "Saraf",
+    "Miologi": "Otot",
+    "Arthrologi": "Sendi",
+    "Fetologi": "Janin",
+    "Embriologi": "Embrio",
+    "Hematologi": "Darah",
+    "Osteologi": "Tulang",
+    "Kardiologi": "Jantung",
+    "Nefrologi": "Ginjal",
+    "Sitologi": "Sel",
+    "Parasitologi": "Parasit",
+    "Imunologi": "Imun",
+    "Onkologi": "Kanker",
+    "Ginekologi": "Reproduksi"
+}
+
+# Mapping diagnosis ke spesialisasi
+diagnosis_mapping = {
+    "Saraf": "Neurologi",
+    "Otot": "Miologi",
+    "Sendi": "Arthrologi",
+    "Janin": "Fetologi",
+    "Embrio": "Embriologi",
+    "Darah": "Hematologi",
+    "Tulang": "Osteologi",
+    "Jantung": "Kardiologi",
+    "Ginjal": "Nefrologi",
+    "Sel": "Sitologi",
+    "Parasit": "Parasitologi",
+    "Imun": "Imunologi",
+    "Kanker": "Onkologi",
+    "Reproduksi": "Ginekologi"
+}
+
+# Rumah sakit di Jakarta dan spesialisasi masing-masing
+hospital_specialist = {
+    "RS Cipto Mangunkusumo - Jakarta Pusat": ["Neurologi", "Hematologi", "Kardiologi"],
+    "RS Fatmawati - Jakarta Selatan": ["Miologi", "Ginekologi", "Onkologi"],
+    "RS Siloam Hospitals Semanggi - Jakarta Selatan": ["Arthrologi", "Nefrologi", "Osteologi"],
+    "RS Dharmais - Jakarta Barat": ["Parasitologi", "Imunologi", "Sitologi"],
+    "RS Bunda Jakarta - Jakarta Pusat": ["Fetologi", "Embriologi", "Neurologi"]
+}
+
+# Fungsi untuk membuat dataset
+def generate_dataset(n=500):
+    data = []
+    for _ in range(n):
+        domisili = random.choice(domisili_list)
+        diagnosis = random.choice(list(diagnosis_mapping.keys()))
+        specialist = diagnosis_mapping[diagnosis]
+        
+        # Pilih rumah sakit berdasarkan spesialisasi dan domisili
+        hospital_candidates = [
+            hospital for hospital, specialists in hospital_specialist.items()
+            if specialist in specialists and domisili.split()[-1] in hospital
+        ]
+        
+        # Jika tidak ada rumah sakit yang cocok, pilih berdasarkan spesialisasi saja
+        if not hospital_candidates:
+            hospital_candidates = [
+                hospital for hospital, specialists in hospital_specialist.items()
+                if specialist in specialists
+            ]
+        
+        # Randomly select a hospital from the candidates
+        hospital = random.choice(hospital_candidates)
+        
+        # Randomize umur dan BPJS
+        umur = random.randint(0, 100)
+        bpjs = random.choice(["Iya", "Tidak"])
+        
+        # Simpan data
+        data.append({
+            "BPJS": bpjs,
+            "Umur": umur,
+            "Domisili": domisili,
+            "Diagnosis Sementara": diagnosis,
+            "Bidang Specialist": specialist,
+            "Nama Rumah Sakit": hospital
+        })
+    
+    return pd.DataFrame(data)
+
+# Generate dan simpan dataset
+df = generate_dataset(500)
+df.to_csv("Dataset_Rumah_Sakit_Indonesia.csv", index=False)
+print("Dataset berhasil dibuat dan disimpan!")
